@@ -4,3 +4,7 @@ description: >-
 show_downloads: true
 # Theme
 theme: jekyll-theme-minimal
+
+
+# logo: /assets/img/profile.jpg
+# favicon: /assets/img/favicon.ico
