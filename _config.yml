@@ -1,1 +1,6 @@
-
+title: "Carlos Figueroa"
+description: >- 
+  Data Science Portfolio - Projects, Resume and Skills.
+show_downloads: true
+# Theme
+theme: jekyll-theme-minimal
