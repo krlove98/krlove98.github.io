@@ -13,17 +13,17 @@ I'm a data science student passionate about uncovering insights from data, solvi
 
 ## 💼 Projects
 
-### 🧠 **[Predicting Dementia Risk from Lifestyle Data](https://github.com/yourusername/dementia-risk-model)**  
-Used logistic regression and decision trees to predict dementia risk from a health behavior dataset.  
-**Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter
+### 🧠 **[House Prices Prediction](https://github.com/krlove98/Housing_Prices)**  
+Data analysis and modeling of house prices using linear regression and Random Forest. Includes data cleaning, imputation, and robust scaling.
+**Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter.
 
-### 📊 **[Exploratory Analysis of WHO Birth Rate Dataset](https://github.com/yourusername/birthrate-eda)**  
-Analyzed birth rates by country and visualized trends with Tableau and matplotlib.  
-**Tools:** Tableau, Excel, Python (matplotlib)
+### 📊 **[Titanic - Machine Learning from Disaster (Kaggle)](https://github.com/krlove98/titanic_comp)**  
+Participated in Kaggle's Titanic competition. Implemented multiple classification models including Logistic Regression, Random Forest, and XGBoost. Focused on data preprocessing, feature engineering, and model evaluation using ROC-AUC and accuracy metrics.
+**Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter.
 
-### 🔍 **[Customer Churn Dashboard](https://public.tableau.com/app/profile/yourprofile/viz/CustomerChurnDashboard)**  
-Interactive dashboard showing churn drivers and KPIs for a fictional telecom company.  
-**Tools:** Tableau, Excel
+### 🔍 **[Income Classification (Adult Income)](https://github.com/krlove98/adult_income)**  
+Applied preprocessing techniques, categorical encoding, and classification models to predict whether an individual earns over $50K per year.
+**Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter.
 
 ---
 
