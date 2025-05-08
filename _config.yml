@@ -5,6 +5,13 @@ show_downloads: true
 # Theme
 theme: jekyll-theme-minimal
 
+author:
+  name: Carlos Figueroa
+  email: carfigueroa98@gmail.com
+  
+# Social Sharing
+social:
+  github: krlove98
 
 #favicon: /assets/img/profile.jpg
 logo: /assets/img/favicon.png
