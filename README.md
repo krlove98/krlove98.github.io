@@ -1,4 +1,4 @@
-# 👩‍💻 Your Name
+# 👩‍💻 Carlos Figueroa
 
 Data Scientist | Machine Learning Enthusiast | Python Lover  
 📍 Vancouver, BC | 📧 carfigueroa98@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/carlos-figueroa-rodriguez) | 🧠 [Kaggle](https://www.kaggle.com/carlosfigueroa98)
